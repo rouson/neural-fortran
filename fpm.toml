@@ -4,3 +4,7 @@ license = "MIT"
 author = "Milan Curcic"
 maintainer = "milancurcic@hey.com"
 copyright = "Copyright 2018-2022, neural-fortran contributors"
+
+[dev-dependencies]
+garden = {git = "https://gitlab.com/everythingfunctional/garden", tag = "v1.0.1"}
+
